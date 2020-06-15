@@ -1,3 +1,20 @@
+# React Crash Course by Bryce Bond
+
+## Tutorial Videos
+
+- [Lesson 1]('https://www.youtube.com/watch?v=w26j_xjiQr4&t')
+    - This Video teaches how to download create-react-app and prep it for your project. 
+
+- [Lesson 2]('https://www.youtube.com/watch?v=Q8GGZKRovhc&t')
+    - This video teaches how to make a basic header in our React App. 
+
+- [Lesson 3]('https://www.youtube.com/watch?v=Kq_tThissBYiRiR4')
+    - This video teaches how to install react-router-dom, initialize HashRouter in our application so our components have access to it. Also how to use Route and Link from react-router-dom to make our Header functional to render different components. 
+
+---
+
+## Default create-react-app README below 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
