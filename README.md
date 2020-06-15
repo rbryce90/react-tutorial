@@ -15,7 +15,7 @@
 - Lesson 3
     - This video teaches how to install react-router-dom, initialize HashRouter in our application so our components have access to it. Also how to use Route and Link from react-router-dom to make our Header functional to render different components. 
 
-    LINK: https://www.youtube.com/watch?v=Kq_tThissBYiRiR4
+    LINK: https://www.youtube.com/watch?v=Kq_tBYiRiR4&t
 
 ---
 
