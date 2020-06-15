@@ -2,14 +2,20 @@
 
 ## Tutorial Videos
 
-- [Lesson 1]('https://www.youtube.com/watch?v=w26j_xjiQr4&t')
+- Lesson 1 
     - This Video teaches how to download create-react-app and prep it for your project. 
 
-- [Lesson 2]('https://www.youtube.com/watch?v=Q8GGZKRovhc&t')
+    LINK: https://www.youtube.com/watch?v=w26j_xjiQr4&t
+
+- Lesson 2
     - This video teaches how to make a basic header in our React App. 
 
-- [Lesson 3]('https://www.youtube.com/watch?v=Kq_tThissBYiRiR4')
+    LINK: https://www.youtube.com/watch?v=Q8GGZKRovhc&t
+
+- Lesson 3
     - This video teaches how to install react-router-dom, initialize HashRouter in our application so our components have access to it. Also how to use Route and Link from react-router-dom to make our Header functional to render different components. 
+
+    LINK: https://www.youtube.com/watch?v=Kq_tThissBYiRiR4
 
 ---
 
